@@ -2,6 +2,7 @@
 Automating PostgreSQL Data Export to CSV Files. 
 When working with PostgreSQL databases, you may encounter situations where you need to export data from all tables in a schema to separate CSV files. This can be especially useful for data analysis, backups, or migrations.
 
+**Blog -** https://blog.niteshapte.com/2024-07-06-how-to-export-postgresql-data-to-csv-files.htm
 
 ## Prerequisites
 #### Create the .pgpass file in the home folder
